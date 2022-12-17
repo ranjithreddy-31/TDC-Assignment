@@ -21,5 +21,6 @@ To compile the file: mpicc file_name.c -o <argument_to_intialize_mpi> (Ex: mpicc
 TO run the file: mpirun <argument_to_intialize_mpi> (Ex: mpirun hellompi)
 
 <h3>Output</h3>:
- ![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+ ![mpi](https://user-images.githubusercontent.com/43203705/208224950-7a21e74c-c9e6-4338-b22d-43a688628f12.jpg)
+
 
